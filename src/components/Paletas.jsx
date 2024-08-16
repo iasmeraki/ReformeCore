@@ -77,7 +77,7 @@ export default  function Paletas() {
 
 
 
-    
+    <script src="//code.jivosite.com/widget/O5S1ORjs0w" async></script>
     </div>
   )
 }
