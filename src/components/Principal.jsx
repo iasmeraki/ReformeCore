@@ -188,7 +188,7 @@ export default function Principal() {
           <p>Essa tonalidade, além de elegante, traz uma sensação de profundidade e sofisticação ao ambiente. </p> <p>Combinar o azul escuro com detalhes dourados ou </p><p>prateados pode elevar ainda mais o nível de requinte. </p> <p>Adicionar texturas, como veludo em almofadas e cortinas,</p> <p>ou um tapete felpudo, contribui para um espaço aconchegante e luxuoso. </p>
         </div>
 
-        
+
 
       </div>
       <script src="//code.jivosite.com/widget/O5S1ORjs0w" async></script>

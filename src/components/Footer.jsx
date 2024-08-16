@@ -31,7 +31,7 @@ export default function Footer() {
       <h3>Apoio</h3>
       <p>Responsáveis: Letícia Brito, Iasmim Barbosa</p>
       </div>
-      
+
     </div>
   )
 }

@@ -74,9 +74,6 @@ export default  function Paletas() {
         <h3>Cores Harmoniosas 2</h3>
     </div>
     </div>
-
-
-
     <script src="//code.jivosite.com/widget/O5S1ORjs0w" async></script>
     </div>
   )
