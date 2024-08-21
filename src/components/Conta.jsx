@@ -17,7 +17,7 @@ export default function Conta() {
         <button className={style.buttonC}>Criar Conta</button>
       </div>
       </div>
-      <script src="//code.jivosite.com/widget/O5S1ORjs0w" async></script>
+      
     </div>
 
   )

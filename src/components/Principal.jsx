@@ -16,7 +16,7 @@ export default function Principal() {
           desde a sala de estar até o jardim. Com nossas dicas, você poderá criar espaços acolhedores e únicos, refletindo a sua personalidade e gosto pessoal.</p>
         </div>
         <div>
-          <img className={style.png} src="https://static-00.iconduck.com/assets.00/camera-circle-icon-512x512-io3lniyk.png" alt="" />
+          <img className={style.png} src="https://static.vecteezy.com/system/resources/previews/018/931/360/original/black-camera-icon-png.png" alt="" />
         <p className={style.txt}>Navegue pelas nossas seções de inspiração, onde você encontrará galerias de fotos, vídeos e artigos escritos por especialistas em design de interiores. Atualizamos nosso conteúdo regularmente para garantir que você esteja sempre por dentro das últimas tendências e novidades do mundo da decoração. Seja você um iniciante ou um entusiasta experiente, temos algo para todos.</p>
         </div>
         <div>
@@ -191,7 +191,6 @@ export default function Principal() {
 
 
       </div>
-      <script src="//code.jivosite.com/widget/O5S1ORjs0w" async></script>
     </div>
   )
 }
